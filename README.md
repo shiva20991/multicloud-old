@@ -15,7 +15,11 @@ _🎯 Follow me and star this repo for more telegram bots. @HxBots
 - *Heroku Deployment*
 - *Simple UI*
 - *Many More...*
+<a href="https://heroku.com/deploy?template=https://github.com/shiva20991/multicloud-old">
 
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+
+</a>
 ## 🚩 Deploy to Heroku
 
 *_Click below button to deploy heroku and fill requred vars. Nothing else._*
